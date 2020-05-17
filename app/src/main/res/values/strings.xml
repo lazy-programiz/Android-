@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+    <string name="icon">icon</string>
+    <string name="dashboard_activity">DashBoard Activity</string>
 </resources>
